@@ -1,0 +1,1 @@
+CREATE TABLE `itp_vt`.`tbl_385217` ( `id` INT NOT NULL AUTO_INCREMENT , `kaynak_adi` VARCHAR(500) CHARACTER SET utf8 COLLATE utf8_turkish_ci NOT NULL , `cikarildigi_yer` VARCHAR(500) CHARACTER SET utf8 COLLATE utf8_turkish_ci NOT NULL , `kullanim_alani` VARCHAR(500) CHARACTER SET utf8 COLLATE utf8_turkish_ci NOT NULL , `rezerv` INT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
